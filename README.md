@@ -4,6 +4,8 @@ A command-line application that uses Node.js, Inquirer, and MySQL to manage a co
 
 ## Links
 
+Video walkthrough available [here](https://watch.screencastify.com/v/kEpoMOAHnXNzE55rGnvA).
+
 ## Installation
 
 ```
@@ -27,3 +29,11 @@ To use this project, run "node index.js" and answer the prompts.
 ![View Command Examples](./assets/view-examples.png)
 
 ![Add/Update Command Examples](./assets/add-examples.png)
+
+## Contact
+
+With questions you can contact Keri Price here:
+
+Email: [klprice128@gmail.com](mailto:klprice128@gmail.com)
+
+GitHub: [https://github.com/kerilp](https://github.com/kerilp)
